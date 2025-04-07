@@ -3,6 +3,6 @@
 O seguinte trabalho é um processo de aprendizagem em Programamção Orientada a Objetos
 
 ____________________________________________________________
-ASSUNTOS
-herança
-metodos
+ASSUNTOS:
+>herança
+>metodos
